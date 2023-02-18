@@ -1,0 +1,12 @@
+body{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h1, h2, .navigation{
+    font-family: 'Inknut Antiqua', serif;
+}
+
+img{
+    /* this is limiting th width of the imagge so it takes 100% width of the image */
+    max-width: 100%;
+}
